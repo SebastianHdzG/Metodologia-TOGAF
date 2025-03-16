@@ -24,9 +24,34 @@
       .imagen_acercanosotros{
         height: 250px;
       }
-      .imagen_historia{
-        height: 180px;
+      .imagen_angel{
+        width: 150px;
       }
+
+      .imagen_historia{
+        width: 320px;
+      }
+      .imagen_historia2{
+        width: 250px;
+      }
+
       .imagen_procesos{
         width: 350px;
+      }
+      .imagen_procesos2{
+        width: 300px;
+      }
+
+      .imagen_definicion{
+        width: 210px;
+      }
+      .imagen_definicion2{
+        width: 230px;
+      }
+
+      .imagen_beneficios{
+        width: 220px;
+      }
+      .imagen_beneficios2{
+        width: 220px;
       }
