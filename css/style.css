@@ -1,0 +1,32 @@
+      body{
+        background-color: #fefae0;
+        text-align: justify;
+        font-family: sans-serif;
+      }
+
+      footer {
+         background-color: #bc6c25;
+         color: #fefae0;
+         text-align: center;
+         padding: 2rem;
+         border-top: 3px solid #bc6c25;
+         margin-top: 5rem;
+      }
+      a{
+        color: #283618;
+      }
+
+      .titulo{
+        background-color: #606c38;
+      }
+
+      /*Imagenes*/
+      .imagen_acercanosotros{
+        height: 250px;
+      }
+      .imagen_historia{
+        height: 180px;
+      }
+      .imagen_procesos{
+        width: 350px;
+      }
